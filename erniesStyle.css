@@ -1,0 +1,63 @@
+/* nav bar section(section 0)*/
+#section0 {
+  height: .5rem;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.nav a:hover {
+  color: #ffd600;
+}
+
+
+/* About */
+#section1 {
+
+  height: 14rem;
+  margin-top: 3rem;
+  color: #fff;
+  background-color: #0288D1;
+}
+
+
+/* Portfolio */
+#section2 {
+  height: 95rem;
+  padding: 3rem;
+  color: #fff;
+  background-color: #039BE5;
+}
+.figure-caption {
+  color:#fff;
+}
+
+/* Contact*/
+#section3 {
+
+  height: 20rem;
+  color: #fff;
+  background-color: #03A9F4;
+}
+
+.link {
+  color: black;
+}
+
+p a:hover {
+  color: #ffd600;
+}
+
+
+/* Footer*/
+#footer {
+
+  color: #fff;
+  background-color: #263238
+}
+
+
+footer {
+  margin: auto;
+}
